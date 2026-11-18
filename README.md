@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/zero-two-1836/world-in-one-picture-17-nov-2026/rank.svg)](https://make.fun/bounty/news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/zero-two-1836/world-in-one-picture-17-nov-2026/reward.svg)](https://make.fun/bounty/news-image-20261117)
+
 # The World in One Picture — 17 November 2026
 
 Entry for the make.fun bounty **"Sum up 17 November's world news in one
